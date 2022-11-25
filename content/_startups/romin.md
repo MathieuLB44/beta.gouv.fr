@@ -41,7 +41,7 @@ En pratique, je suis CPIP, j'évalue le profil de la personne condamnée que j'a
 
 Quels outils vais-je utiliser pour chacun des facteurs de risque à travailler?
 
-Je consulte ROMIN: 1 seul critère à renseigner: le facteur de risque sélectionné.
+Je consulte **ROMIN**: 1 seul critère à renseigner: le facteur de risque sélectionné.
 
 J'accède à l'ensemble des outils d'intervention répertoriés. Je consulte la fiche outil, je prends connaissance du temps nécessaire à la mise en oeuvre, du mode d'emploi et je télécharge les supports nécessaires.
 
